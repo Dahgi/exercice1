@@ -1,0 +1,81 @@
+
+    #bo{
+        margin: 10px 10px;
+        padding: 0px 0px;
+   
+    }
+    .i{
+        background: url(rainbow.png) no-repeat;
+        background-position: 50% 10%;
+        margin: 0%;
+        padding: 5% 0 10px;
+    
+    }
+    .menu{
+        background-color: #c55394;
+        height: 50px;
+        width: 200%;
+        color: aliceblue; 
+        margin-right: 10%;
+    }
+    .posi:hover{
+        text-decoration: none;
+        color:crimson;
+        background-color: #c55394;
+        box-sizing: border-box;
+        color: #c55394;
+        
+  
+    }
+    .posi{
+        text-align: right;
+        padding-left: 2px;
+    }
+    .bor{
+        border-radius: 20px;
+        background: #fff;
+        margin:auto 5%;
+        padding: 15px;
+        box-shadow: 5px 5px 5px 5px rgba(0,0,0,0.6)
+    }
+
+.ton{
+    background-color: yellowgreen;
+    text-decoration: purple;
+    display:flex;
+    height: 40px;
+    width: 60px;
+    align-items: center;
+}
+    #figure{
+            width: 40%;
+            padding: 5px 5px 5px 5px;
+            margin: 0px 0px 15px 5px;
+            display: flex;
+            flex-direction: row;
+            
+}
+#soustitre{
+color: #c55394;}
+.im{
+    width: 200px;
+    height: 200px;
+    padding-left: 10%; 
+    transition: 2s;      
+}
+.im:hover{
+    transform: scale(1.3);
+    z-index: 2;
+}
+
+.lg{
+    position:absolute;
+    top:100%;
+    margin-left: 45%;
+    margin-bottom: 0%;
+    
+}  
+
+.fot{
+    height: 30px;
+}
